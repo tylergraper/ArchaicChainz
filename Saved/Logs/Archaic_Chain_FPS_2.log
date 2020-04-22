@@ -1,0 +1,1102 @@
+﻿Log file open, 04/03/20 10:46:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Archaic_Chain_FPS
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.416773
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.095s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.04.03-17.46.16:860][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.03-17.46.16:860][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.03-17.46.16:880][  0]LogHAL: Display: Platform has ~ 16 GB [17130156032 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.03-17.46.16:880][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2020.04.03-17.46.16:880][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.03-17.46.16:880][  0]LogInit: Computer: VRTUALWORLD
+[2020.04.03-17.46.16:880][  0]LogInit: User: Michael
+[2020.04.03-17.46.16:880][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.03-17.46.16:880][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.03-17.46.16:880][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.04.03-17.46.16:880][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.03-17.46.16:880][  0]LogMemory: Process Physical Memory: 101.47 MB used, 101.47 MB peak
+[2020.04.03-17.46.16:880][  0]LogMemory: Process Virtual Memory: 93.71 MB used, 93.71 MB peak
+[2020.04.03-17.46.16:880][  0]LogMemory: Physical Memory: 8225.64 MB used,  8110.95 MB free, 16336.59 MB total
+[2020.04.03-17.46.16:880][  0]LogMemory: Virtual Memory: 4646.64 MB used,  8110.95 MB free, 134217728.00 MB total
+[2020.04.03-17.46.16:996][  0]LogInit: Using OS detected language (en-US).
+[2020.04.03-17.46.16:996][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.03-17.46.16:997][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.03-17.46.17:344][  0]LogStreaming: Display: Took  0.348s to InitEngineTextLocalization.
+[2020.04.03-17.46.17:344][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.03-17.46.17:408][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.03-17.46.17:408][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.03-17.46.19:003][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.03-17.46.19:079][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.04.03-17.46.19:079][  0]LogD3D11RHI:       8031/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.03-17.46.19:081][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.03-17.46.19:081][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.03-17.46.19:081][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.03-17.46.19:088][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.03-17.46.19:088][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.03-17.46.19:088][  0]LogWindows: EnumDisplayDevices:
+[2020.04.03-17.46.19:088][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2020.04.03-17.46.19:088][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2020.04.03-17.46.19:088][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.03-17.46.19:089][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.04.03-17.46.19:089][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.04.03-17.46.19:089][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.04.03-17.46.19:089][  0]LogD3D11RHI:   Driver Version: 442.50 (internal:26.21.14.4250, unified:442.50)
+[2020.04.03-17.46.19:089][  0]LogD3D11RHI:      Driver Date: 2-24-2020
+[2020.04.03-17.46.19:089][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.04.03-17.46.19:132][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.03-17.46.19:159][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.03-17.46.19:161][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Intermediate/Shaders/WorkingDirectory/8828/).
+[2020.04.03-17.46.19:161][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Michael/AppData/Local/Temp/UnrealShaderWorkingDir/565233A945634C91A557218AB4C83D4F/'.
+[2020.04.03-17.46.19:373][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.04.03-17.46.19:385][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.04.03-17.46.19:397][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.04.03-17.46.19:409][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.04.03-17.46.19:427][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.04.03-17.46.19:439][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.04.03-17.46.19:451][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.04.03-17.46.19:463][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.04.03-17.46.19:468][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:551][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:552][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:552][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:552][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:552][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.04.03-17.46.19:553][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.04.03-17.46.19:615][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.03-17.46.19:615][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.04.03-17.46.19:635][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.03-17.46.19:635][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.04.03-17.46.19:646][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.04.03-17.46.19:657][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.04.03-17.46.19:668][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.04.03-17.46.19:687][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.04.03-17.46.19:694][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.04.03-17.46.19:694][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.03-17.46.19:782][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.03-17.46.19:782][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.03-17.46.19:782][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.03-17.46.21:145][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.03-17.46.21:190][  0]LogDerivedDataCache: Loaded boot cache 0.05s 68MB C:/Users/Michael/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.04.03-17.46.21:190][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Michael/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2020.04.03-17.46.21:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.03-17.46.21:190][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.03-17.46.21:190][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.03-17.46.21:190][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.03-17.46.21:212][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.03-17.46.21:225][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Michael/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.03-17.46.21:225][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.03-17.46.21:225][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.03-17.46.21:240][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.03-17.46.21:241][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.03-17.46.21:254][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.03-17.46.21:403][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2020.04.03-17.46.21:678][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.03-17.46.21:792][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.04.03-17.46.21:795][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.04.03-17.46.21:795][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.03-17.46.21:795][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.03-17.46.21:795][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.04.03-17.46.21:810][  0]LogNetVersion: Archaic_Chain_FPS 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3766234843)
+[2020.04.03-17.46.22:195][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.098884 seconds
+[2020.04.03-17.46.22:201][  0]LogUObjectArray: 37967 objects as part of root set at end of initial load.
+[2020.04.03-17.46.22:201][  0]LogUObjectAllocator: 6605920 out of 0 bytes used by permanent object pool.
+[2020.04.03-17.46.22:201][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.03-17.46.23:813][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.03-17.46.23:827][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.03-17.46.23:958][  0]SourceControl: Source control is disabled
+[2020.04.03-17.46.24:363][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.03-17.46.24:513][  0]LogEngine: Initializing Engine...
+[2020.04.03-17.46.24:515][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.03-17.46.24:515][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.03-17.46.24:515][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.03-17.46.24:515][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.03-17.46.24:658][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.03-17.46.24:669][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.03-17.46.24:697][  0]LogInit: XAudio2 using 'ASUS VP28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.03-17.46.24:709][  0]LogInit: FAudioDevice initialized.
+[2020.04.03-17.46.24:710][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.03-17.46.24:781][  0]LogDerivedDataCache: Saved boot cache 0.07s 68MB C:/Users/Michael/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2020.04.03-17.46.24:785][  0]LogInit: Texture streaming: Enabled
+[2020.04.03-17.46.24:800][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.03-17.46.24:812][  0]LogInit: Transaction tracking system initialized
+[2020.04.03-17.46.24:828][  0]BlueprintLog: New page: Editor Load
+[2020.04.03-17.46.24:891][  0]LocalizationService: Localization service is disabled
+[2020.04.03-17.46.25:283][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.03-17.46.25:283][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.03-17.46.25:283][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.04.03-17.46.25:283][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.04.03-17.46.25:283][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.04.03-17.46.25:283][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.04.03-17.46.25:283][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.04.03-17.46.25:407][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/' took 0.02s
+[2020.04.03-17.46.25:407][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/Worlds/Main_Game.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.03-17.46.25:407][  0]LightingResults: New page: Lighting Build
+[2020.04.03-17.46.25:409][  0]MapCheck: New page: Map Check
+[2020.04.03-17.46.25:409][  0]LightingResults: New page: Lighting Build
+[2020.04.03-17.46.27:508][  0]LogAIModule: Creating AISystem for world Main_Game
+[2020.04.03-17.46.27:515][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.03-17.46.27:541][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.03-17.46.27:637][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 95.644ms to complete.
+[2020.04.03-17.46.27:637][  0]LogFileHelpers: Loading map 'Main_Game' took 2.230
+[2020.04.03-17.46.27:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-17.46.27:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-17.46.27:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-17.46.27:776][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-17.46.27:784][  0]LogCollectionManager: Loaded 0 collections in 0.001265 seconds
+[2020.04.03-17.46.27:827][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Collections/' took 0.01s
+[2020.04.03-17.46.27:827][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/Developers/Michael/Collections/' took 0.01s
+[2020.04.03-17.46.27:827][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/Collections/' took 0.01s
+[2020.04.03-17.46.27:827][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.04.03-17.46.27:836][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2565 classes and 594 folders.
+[2020.04.03-17.46.27:842][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.03-17.46.28:060][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.03-17.46.28:064][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.04.03-17.46.28:082][  0]LogSlate: Took 0.004196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.03-17.46.28:088][  0]LogSlate: Took 0.004384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.03-17.46.28:097][  0]LogSlate: Took 0.005244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.03-17.46.28:187][  0]LogRenderer: Reallocating scene render targets to support 1668x812 Format 10 NumSamples 1 (Frame:1).
+[2020.04.03-17.46.28:301][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.03-17.46.28:301][  0]LogLoad: (Engine Initialization) Total time: 13.85 seconds
+[2020.04.03-17.46.28:301][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.03-17.46.28:341][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.03-17.46.28:392][  1]LogAssetRegistry: Asset discovery search completed in 7.0119 seconds
+[2020.04.03-17.46.28:393][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.03-17.46.28:393][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2020.04.03-17.46.57:098][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.47.10:245][656]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.03-17.47.10:261][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.03-17.47.10:274][656]PIE: New page: PIE session: Main_Game (Apr 3, 2020, 3:47:10 AM)
+[2020.04.03-17.47.10:274][656]LogPlayLevel: Creating play world package: /Game/Worlds/UEDPIE_0_Main_Game
+[2020.04.03-17.47.10:277][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003330s)
+[2020.04.03-17.47.10:278][656]LogAIModule: Creating AISystem for world Main_Game
+[2020.04.03-17.47.10:278][656]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2020.04.03-17.47.10:278][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Worlds/Main_Game.Main_Game to /Game/Worlds/UEDPIE_0_Main_Game.Main_Game (0.004004s)
+[2020.04.03-17.47.10:323][656]LogInit: XAudio2 using 'ASUS VP28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.03-17.47.10:331][656]LogInit: FAudioDevice initialized.
+[2020.04.03-17.47.10:389][656]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.03-17.47.10:391][656]LogWorld: Bringing World /Game/Worlds/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 0) at 2020.04.03-10.47.10
+[2020.04.03-17.47.10:392][656]LogWorld: Bringing up level for play took: 0.001681
+[2020.04.03-17.47.10:407][656]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2020.04.03-17.47.10:410][656]PIE: Play in editor start time for /Game/Worlds/UEDPIE_0_Main_Game 0.284
+[2020.04.03-17.47.21:832][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-17.47.21:866][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.03-17.47.21:890][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-17.47.21:953][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.04.03-17.50.52:197][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Overview_Wall_1)
+[2020.04.03-17.51.13:841][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.51.13:932][761]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.03-17.51.13:948][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.03-17.51.13:949][761]PIE: New page: PIE session: Main_Game (Apr 3, 2020, 3:51:13 AM)
+[2020.04.03-17.51.13:949][761]LogPlayLevel: Creating play world package: /Game/Worlds/UEDPIE_0_Main_Game
+[2020.04.03-17.51.13:952][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003049s)
+[2020.04.03-17.51.13:952][761]LogAIModule: Creating AISystem for world Main_Game
+[2020.04.03-17.51.13:952][761]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2020.04.03-17.51.13:953][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Worlds/Main_Game.Main_Game to /Game/Worlds/UEDPIE_0_Main_Game.Main_Game (0.003881s)
+[2020.04.03-17.51.13:999][761]LogInit: XAudio2 using 'ASUS VP28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.03-17.51.14:008][761]LogInit: FAudioDevice initialized.
+[2020.04.03-17.51.14:037][761]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.03-17.51.14:040][761]LogWorld: Bringing World /Game/Worlds/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 0) at 2020.04.03-10.51.14
+[2020.04.03-17.51.14:040][761]LogWorld: Bringing up level for play took: 0.001785
+[2020.04.03-17.51.14:055][761]PIE: Play in editor start time for /Game/Worlds/UEDPIE_0_Main_Game -0.072
+[2020.04.03-17.51.30:962][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-17.51.30:997][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.03-17.51.31:020][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-17.51.31:085][788]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.04.03-17.51.56:478][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.52.08:301][581]LogSlate: Took 0.004045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.03-17.52.10:656][581]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.03-17.52.32:548][348]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/BP_RunnableWall.BP_RunnableWall:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.04.03-17.52.32:548][348]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/BP_RunnableWall.SKEL_BP_RunnableWall_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.04.03-17.52.32:548][348]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/BP_RunnableWall.BP_RunnableWall_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.04.03-17.52.32:548][348]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/BP_RunnableWall.BP_RunnableWall:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.04.03-17.52.32:548][348]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/BP_RunnableWall.BP_RunnableWall:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.04.03-17.52.32:548][348]LogMetaData: Removing '/Game/FirstPersonBP/Blueprints/BP_RunnableWall.BP_RunnableWall:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPersonBP/Blueprints/NewBlueprint.PackageMetaData'
+[2020.04.03-17.52.32:577][348]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BP_RunnableWall4F37FB36402722304D76988E516F284E.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BP_RunnableWall.uasset'
+[2020.04.03-17.52.46:439][797]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BP_RunnableWall.BP_RunnableWall
+[2020.04.03-17.52.46:912][797]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2020.04.03-17.52.47:667][797]LogRenderer: Reallocating scene render targets to support 1668x1000 Format 10 NumSamples 1 (Frame:1).
+[2020.04.03-17.52.58:223][906]LogSlate: Took 0.005331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.03-17.53.23:709][688]BlueprintLog: New page: Compile BP_RunnableWall
+[2020.04.03-17.53.32:884][759]LogEditorViewport: Clicking on Actor (LMB): PainVolume_C (PainVolume)
+[2020.04.03-17.54.09:482][834]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-17.54.11:810][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.54.32:254][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.54.33:999][343]BlueprintLog: New page: Compile BP_RunnableWall
+[2020.04.03-17.54.34:652][380]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-17.54.34:694][380]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BP_RunnableWall5275A4BD4D26B7A2139BF18C48593F35.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BP_RunnableWall.uasset'
+[2020.04.03-17.54.35:869][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.54.38:315][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.55.24:959][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.55.25:222][401]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Main_Game363356A24C01D024F68318B51936E7CE.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/Worlds/Main_Game.umap'
+[2020.04.03-17.55.59:174][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-17.56.17:139][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-17.57.55:920][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.58.08:513][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.58.08:587][309]Cmd: MODE SCALEGRID=0
+[2020.04.03-17.58.24:311][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.58.24:402][838]Cmd: MODE SCALEGRID=1
+[2020.04.03-17.58.29:876][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.58.48:331][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.59.14:570][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-17.59.49:516][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-17.59.55:843][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.00.02:540][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.00.09:811][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.00.21:275][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.00.21:356][890]Cmd: MODE SCALEGRID=0
+[2020.04.03-18.00.31:578][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.00.50:716][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.00.50:807][669]BlueprintLog: New page: Compile BP_RunnableWall
+[2020.04.03-18.00.51:644][694]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BP_RunnableWall6CA3E7464B6D26BFFB4DCD98F33ECF55.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BP_RunnableWall.uasset'
+[2020.04.03-18.01.08:529][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.01.14:717][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.01.34:483][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.01.34:615][370]BlueprintLog: New page: Compile BP_RunnableWall
+[2020.04.03-18.01.35:822][456]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BP_RunnableWall0ECE8AB94076817EF327898D4BF86F55.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BP_RunnableWall.uasset'
+[2020.04.03-18.01.54:131][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.01.54:354][100]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.04.03-18.01.54:638][100]LogSlate: Took 0.005335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.03-18.02.37:890][397]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.03-18.03.13:623][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BPI_WallRunner.BPI_WallRunner
+[2020.04.03-18.03.46:315][767]LogSlate: Took 0.004668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.03-18.05.27:867][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.05.47:982][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.06.05:059][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.06.21:022][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.07.28:813][541]BlueprintLog: New page: Compile BP_RunnableWall
+[2020.04.03-18.08.03:324][318]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.03-18.08.19:013][ 71]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.08.38:934][622]LogBlueprint: Warning: [Compiler ] Pasted node  SetRunnableWall   conflicted with  Event Set Runnable Wall  and was replaced as a Custom Event!
+[2020.04.03-18.09.01:464][475]LogBlueprint: Warning: [Compiler ] Pasted node  SetRunnableWall   conflicted with  Event Set Runnable Wall  and was replaced as a Custom Event!
+[2020.04.03-18.09.13:259][299]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.11.28:960][190]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.11.29:057][190]LogBlueprint: Error: [Compiler FirstPersonCharacter] Cannot order parameters NewParam1 in function SetRunnableWall.
+[2020.04.03-18.11.29:241][190]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [1514.79] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 280 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2020.04.03-18.12.08:301][ 45]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.12.36:357][483]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Main_Game_Auto1E7A1530145665002636B259376179875.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Autosaves/Game/Worlds/Main_Game_Auto1.umap'
+[2020.04.03-18.12.36:359][483]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Worlds/Main_Game' took 0.083
+[2020.04.03-18.12.36:359][483]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2020.04.03-18.12.36:361][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.04.03-18.12.36:377][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.04.03-18.12.36:377][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.04.03-18.12.36:508][483]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter_Auto178AEEE064FF384BE3DEC1EB0AA821F05.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2020.04.03-18.12.36:510][483]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/BP_RunnableWall] ([1] browsable assets)...
+[2020.04.03-18.12.36:525][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/BP_RunnableWall.BP_RunnableWall]
+[2020.04.03-18.12.36:525][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/BP_RunnableWall]
+[2020.04.03-18.12.36:556][483]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BP_RunnableWall_Auto161DA35DB491F8D0785AABDAFB12E1695.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Autosaves/Game/FirstPersonBP/Blueprints/BP_RunnableWall_Auto1.uasset'
+[2020.04.03-18.12.36:557][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/BPI_WallRunner] ([1] browsable assets)...
+[2020.04.03-18.12.36:557][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/BPI_WallRunner]
+[2020.04.03-18.12.36:566][483]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BPI_WallRunner_Auto18E177BC140D07CA347DA3A96C9E6ABE4.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Autosaves/Game/FirstPersonBP/Blueprints/BPI_WallRunner_Auto1.uasset'
+[2020.04.03-18.12.36:567][483]LogFileHelpers: Auto-saving content packages took 0.206
+[2020.04.03-18.12.38:333][663]BlueprintLog: New page: Compile BPI_WallRunner
+[2020.04.03-18.12.41:237][986]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BPI_WallRunnerB37636A248EBEFB7759EBA97598514EF.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BPI_WallRunner.uasset'
+[2020.04.03-18.13.04:457][208]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.03-18.14.27:989][ 76]BlueprintLog: New page: Compile BPI_WallRunner
+[2020.04.03-18.14.28:787][148]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BPI_WallRunnerF61BD1C1463E47262F6E8FA62594926D.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BPI_WallRunner.uasset'
+[2020.04.03-18.15.10:563][114]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.15.36:867][685]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.15.54:943][267]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.17.05:405][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.21.10:773][533]BlueprintLog: New page: Compile BPI_WallRunner
+[2020.04.03-18.21.11:507][577]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BPI_WallRunnerF1A711324D586CDE24C1BC8C5BF0685E.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BPI_WallRunner.uasset'
+[2020.04.03-18.21.45:906][293]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.21.52:609][529]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter773081854A40A9CF357A4398112E5BDA.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.21.52:609][529]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.21.53:111][529]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.21.53:111][529]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.22.01:220][529]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.22.01:225][529]EditorErrors: New page: Save Output
+[2020.04.03-18.22.01:225][529]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.22.03:660][740]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.22.03:664][740]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.22.08:398][186]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.23.12:247][395]BlueprintLog: New page: Compile BP_RunnableWall
+[2020.04.03-18.28.02:779][190]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.28.59:528][ 12]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.29.25:374][631]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Main_Game_Auto2B840A79348ECAEB48057C7872545995D.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Autosaves/Game/Worlds/Main_Game_Auto2.umap'
+[2020.04.03-18.29.25:376][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Worlds/Main_Game' took 0.083
+[2020.04.03-18.29.25:376][631]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2020.04.03-18.29.25:378][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.04.03-18.29.25:386][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.04.03-18.29.25:386][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.04.03-18.29.25:523][631]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter_Auto2E03F1A984AB929815A29DD826E1D47E3.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2020.04.03-18.29.25:524][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/BP_RunnableWall] ([1] browsable assets)...
+[2020.04.03-18.29.25:532][631]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/BP_RunnableWall.BP_RunnableWall]
+[2020.04.03-18.29.25:532][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/BP_RunnableWall]
+[2020.04.03-18.29.25:569][631]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BP_RunnableWall_Auto25796059C4038AA9DAD1780AAC6740D55.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Autosaves/Game/FirstPersonBP/Blueprints/BP_RunnableWall_Auto2.uasset'
+[2020.04.03-18.29.25:570][631]LogFileHelpers: Auto-saving content packages took 0.193
+[2020.04.03-18.29.30:804][162]BlueprintLog: New page: Compile BP_RunnableWall
+[2020.04.03-18.29.45:756][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.29.45:847][597]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.03-18.29.45:874][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.03-18.29.45:874][597]PIE: New page: PIE session: Main_Game (Apr 3, 2020, 4:29:45 AM)
+[2020.04.03-18.29.45:874][597]LogPlayLevel: Creating play world package: /Game/Worlds/UEDPIE_0_Main_Game
+[2020.04.03-18.29.45:877][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002940s)
+[2020.04.03-18.29.45:878][597]LogAIModule: Creating AISystem for world Main_Game
+[2020.04.03-18.29.45:878][597]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2020.04.03-18.29.45:878][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Worlds/Main_Game.Main_Game to /Game/Worlds/UEDPIE_0_Main_Game.Main_Game (0.003658s)
+[2020.04.03-18.29.45:933][597]LogInit: XAudio2 using 'ASUS VP28U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.03-18.29.45:942][597]LogInit: FAudioDevice initialized.
+[2020.04.03-18.29.45:970][597]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.04.03-18.29.45:972][597]LogWorld: Bringing World /Game/Worlds/UEDPIE_0_Main_Game.Main_Game up for play (max tick rate 0) at 2020.04.03-11.29.45
+[2020.04.03-18.29.45:972][597]LogWorld: Bringing up level for play took: 0.001895
+[2020.04.03-18.29.45:986][597]PIE: Play in editor start time for /Game/Worlds/UEDPIE_0_Main_Game -0.14
+[2020.04.03-18.30.26:112][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-18.30.26:145][405]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.03-18.30.26:173][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.03-18.30.26:213][406]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.03-18.30.31:686][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.30.32:511][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.30.32:531][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.30.33:925][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.30.34:008][782]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Main_Game097F46D14693256C07253EAAFA099666.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/Worlds/Main_Game.umap'
+[2020.04.03-18.30.40:899][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.30.41:064][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.30.41:107][486]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BP_RunnableWall1B0EF137430D182E8110069AE885536B.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BP_RunnableWall.uasset'
+[2020.04.03-18.30.42:200][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.30.43:182][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.30.43:311][704]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter7FCD73504C3C2344D5D1F1A42AB91532.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.30.43:312][704]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.30.43:813][704]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.30.43:813][704]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.30.55:371][704]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.30.55:505][704]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter8599D3CA4CBF18278878F692773F8939.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.30.55:505][704]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.30.56:007][704]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.30.56:007][704]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.31.00:891][704]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.31.00:896][704]EditorErrors: New page: Save Output
+[2020.04.03-18.31.00:896][704]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.31.00:896][704]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.31.00:901][704]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.31.14:622][ 91]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.31.14:625][ 91]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.31.15:214][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.32.06:575][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.32.06:708][947]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter7D616244476DFC728BA09A906E0537DC.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.32.06:708][947]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.32.07:209][947]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.32.07:209][947]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.32.11:722][947]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.32.11:727][947]EditorErrors: New page: Save Output
+[2020.04.03-18.32.11:727][947]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.32.11:732][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.32.13:408][ 79]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.32.13:411][ 79]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.32.13:944][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.32.37:795][451]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.32.37:822][451]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BPI_WallRunner2ADDC6294EDF081B92D5D89E50F7528F.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BPI_WallRunner.uasset'
+[2020.04.03-18.32.38:585][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.32.39:694][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.32.39:823][648]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacterA09C67804FAE5E17D0B8B99717D57A27.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.32.39:823][648]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.32.40:324][648]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.32.40:324][648]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.32.42:403][648]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.32.42:408][648]EditorErrors: New page: Save Output
+[2020.04.03-18.32.42:408][648]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.32.42:413][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.32.43:539][759]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.32.43:543][759]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.32.46:757][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.32.53:077][728]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.32.54:567][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.32.54:710][836]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter0B6248794BF6B22221B0D7B783727CD9.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.32.54:711][836]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.32.55:211][836]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.32.55:211][836]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.32.59:279][836]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.32.59:284][836]EditorErrors: New page: Save Output
+[2020.04.03-18.32.59:284][836]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.32.59:289][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.33.02:235][133]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.33.02:239][133]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.33.05:810][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.33.29:027][295]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.33.41:198][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.33.42:635][632]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.33.44:161][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.33.44:315][736]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter539468994A30256F6C0E3B8CA29D2A14.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.33.44:315][736]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.33.44:817][736]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.33.44:817][736]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.33.46:247][736]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.33.46:252][736]EditorErrors: New page: Save Output
+[2020.04.03-18.33.46:252][736]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.33.46:257][736]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.33.47:433][844]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.33.47:437][844]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.33.52:610][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.35.52:318][409]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.35.55:573][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.35.55:680][658]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.35.56:694][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.35.56:842][698]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacterF3234C74499A5EE86B4C7EB0FE765741.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.35.56:842][698]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.35.57:343][698]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.35.57:343][698]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.35.59:317][698]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.35.59:322][698]EditorErrors: New page: Save Output
+[2020.04.03-18.35.59:322][698]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.35.59:327][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.36.01:434][861]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.36.01:438][861]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.36.06:767][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.36.13:455][809]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.03-18.36.17:944][154]LogEditorTransaction: Undo Move Nodes
+[2020.04.03-18.36.19:371][249]LogEditorTransaction: Undo Edit Run Construction Script on Drag
+[2020.04.03-18.36.20:063][290]LogEditorTransaction: Undo Delete current selection
+[2020.04.03-18.36.20:661][324]LogEditorTransaction: Undo Break Pin Links
+[2020.04.03-18.36.25:205][650]Cmd: TRANSACTION REDO
+[2020.04.03-18.36.25:205][650]LogEditorTransaction: Redo Break Pin Links
+[2020.04.03-18.36.28:081][846]Cmd: TRANSACTION REDO
+[2020.04.03-18.36.28:081][846]LogEditorTransaction: Redo Delete current selection
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:084][846]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_FirstPersonCharacter) bSelfContext == true, but no scope supplied!
+[2020.04.03-18.36.28:087][846]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_7:PersistentLevel.FirstPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2020.04.03-18.36.29:219][922]LogEditorTransaction: Redo Edit Run Construction Script on Drag
+[2020.04.03-18.36.29:224][922]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_7:PersistentLevel.FirstPersonCharacter_C_0.CharacterMesh0) Component already registered.
+[2020.04.03-18.36.29:387][923]LogEditorTransaction: Redo Move Nodes
+[2020.04.03-18.36.48:405][347]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.36.49:583][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.36.49:725][401]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter624F96A84FCA0388BE9AAA897C1143C9.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.36.49:725][401]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.36.50:227][401]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.36.50:227][401]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.36.53:667][401]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.36.53:672][401]EditorErrors: New page: Save Output
+[2020.04.03-18.36.53:672][401]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.36.53:678][401]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.37.07:443][433]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.37.07:446][433]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.37.08:674][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.37.11:611][878]BlueprintLog: New page: Compile BPI_WallRunner
+[2020.04.03-18.37.12:144][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.37.12:165][923]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BPI_WallRunner5B10267D4894342191481A9CA234F4B2.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BPI_WallRunner.uasset'
+[2020.04.03-18.37.15:619][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.37.23:491][936]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.03-18.37.59:979][754]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.38.03:827][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.38.05:563][219]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.38.06:455][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.38.06:597][253]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacterEA12FFED45B73D2258F3348AA92365EB.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.38.06:598][253]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.38.07:100][253]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.38.07:100][253]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.38.12:004][253]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.38.12:009][253]EditorErrors: New page: Save Output
+[2020.04.03-18.38.12:009][253]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.38.12:014][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.38.14:676][253]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2020.04.03-18.38.16:349][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.38.17:932][522]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.38.17:936][522]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.38.25:082][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.39.03:515][908]LogSlate: Window 'BPI_WallRunner' being destroyed
+[2020.04.03-18.39.03:518][908]LogSlate: Window 'BPI_WallRunner' being destroyed
+[2020.04.03-18.39.03:590][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.03-18.39.07:190][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.39.10:736][747]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.04.03-18.40.24:541][135]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2020.04.03-18.40.24:543][135]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2020.04.03-18.40.25:620][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.40.52:722][783]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Main_Game_Auto31294D21B464EDFB0AB73FA985FF85D1B.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Autosaves/Game/Worlds/Main_Game_Auto3.umap'
+[2020.04.03-18.40.52:725][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Worlds/Main_Game' took 0.088
+[2020.04.03-18.40.52:725][783]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2020.04.03-18.40.52:727][783]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.04.03-18.40.52:727][783]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2020.04.03-18.40.52:851][783]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter_Auto33C0067AB438C604EB590B786D645A3F1.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2020.04.03-18.40.52:852][783]LogFileHelpers: Auto-saving content packages took 0.126
+[2020.04.03-18.40.58:300][800]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.04.03-18.41.14:646][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.41.14:780][194]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacterF0A74AD749939AE9F9AFAC812E30D522.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.41.14:781][194]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.41.15:281][194]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.41.15:281][194]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.41.18:960][194]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.41.18:965][194]EditorErrors: New page: Save Output
+[2020.04.03-18.41.18:965][194]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.41.18:971][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.41.21:713][430]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.41.21:717][430]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.41.22:323][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.41.28:699][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.41.28:840][ 72]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacterCCEA77E84646C873DEBEB8A6A65A556D.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.41.28:841][ 72]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.41.29:341][ 72]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.41.29:341][ 72]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.41.31:995][ 72]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.41.32:001][ 72]EditorErrors: New page: Save Output
+[2020.04.03-18.41.32:001][ 72]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.41.32:006][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.41.33:280][194]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.41.33:283][194]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.41.33:596][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.41.34:349][317]LogEditorTransaction: Undo Delete current selection
+[2020.04.03-18.41.46:821][385]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2020.04.03-18.41.46:824][385]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2020.04.03-18.41.49:062][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.41.55:677][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.42.09:328][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.42.09:494][ 63]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/BPI_WallRunner.BPI_WallRunner
+[2020.04.03-18.42.13:428][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.42.13:452][498]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/BPI_WallRunner392065F14C7AA5CB7CFD548553AA5D7D.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/BPI_WallRunner.uasset'
+[2020.04.03-18.42.15:883][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.42.19:960][277]LogSlate: Window 'BPI_WallRunner' being destroyed
+[2020.04.03-18.42.19:963][277]LogSlate: Window 'BPI_WallRunner' being destroyed
+[2020.04.03-18.42.28:061][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.44.31:273][675]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.04.03-18.44.33:554][777]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.04.03-18.44.34:656][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.44.34:799][809]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter4101F3554FB849BFA25AD3851B4A6EB1.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.44.34:799][809]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.44.35:301][809]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.44.35:301][809]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.44.44:443][809]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.44.44:448][809]EditorErrors: New page: Save Output
+[2020.04.03-18.44.44:448][809]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.44.44:453][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.44.46:541][921]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.44.46:545][921]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.44.47:316][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.44.48:584][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.44.52:194][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.44.52:283][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.44.52:462][541]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/Main_Game1834C8474AD6759C9BA9CDB4EB05EA2D.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/Worlds/Main_Game.umap'
+[2020.04.03-18.44.52:494][541]LogFileHelpers: Saving map 'Main_Game' took 0.207
+[2020.04.03-18.44.52:619][541]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacterACD34AB64BEC79A47AA6CF91508D2B20.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.44.52:619][541]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.44.53:120][541]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.44.53:120][541]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.44.55:605][541]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.44.55:611][541]EditorErrors: New page: Save Output
+[2020.04.03-18.44.55:611][541]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.44.55:618][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.44.56:855][664]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.44.56:858][664]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.44.57:499][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.44.58:643][876]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.45.01:908][264]SourceControl: Source control is disabled
+[2020.04.03-18.45.05:354][677]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.03-18.45.08:751][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.45.10:718][189]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter400A260E490BE5CFFB360DB31B90F297.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.45.10:719][189]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.45.11:220][189]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.45.11:220][189]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.45.15:393][189]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.45.15:398][189]EditorErrors: New page: Save Output
+[2020.04.03-18.45.15:398][189]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.45.15:404][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.45.16:980][273]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.45.16:984][273]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.45.24:541][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.45.24:786][702]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacter377D4B71446B17BAD2A24398930BA93D.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.45.24:786][702]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.45.25:287][702]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.45.25:287][702]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.45.26:856][702]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.45.26:861][702]EditorErrors: New page: Save Output
+[2020.04.03-18.45.26:861][702]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.45.26:867][702]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.45.28:198][770]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.45.28:201][770]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.45.29:566][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.46.06:203][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.46.06:346][327]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2020.04.03-18.46.06:349][327]LogSlate: Window 'FirstPersonCharacter*' being destroyed
+[2020.04.03-18.46.31:628][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.03-18.46.33:664][808]LogSlate: Window 'Save Content' being destroyed
+[2020.04.03-18.46.33:675][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.46.33:810][808]LogSavePackage: Moving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Saved/FirstPersonCharacterEED4D0564C1E8DDC82172A8E7BC2147A.tmp' to '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.46.33:810][808]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.04.03-18.46.34:311][808]LogFileManager: Error: Error deleting file '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'.
+[2020.04.03-18.46.34:311][808]LogSavePackage: Error: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.46.36:322][808]LogSlate: Window 'Message' being destroyed
+[2020.04.03-18.46.36:327][808]EditorErrors: New page: Save Output
+[2020.04.03-18.46.36:327][808]EditorErrors: Warning: Error saving '../../../../../../Users/Michael/Documents/Unreal Projects/Archaic_Chain_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.04.03-18.46.36:333][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.03-18.46.37:874][808]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2020.04.03-18.46.37:953][808]LogSlate: Window 'Message Log' being destroyed
+[2020.04.03-18.46.37:955][808]LogSlate: Window 'Archaic_Chain_FPS - Unreal Editor' being destroyed
+[2020.04.03-18.46.38:223][809]Cmd: QUIT_EDITOR
+[2020.04.03-18.46.38:752][809]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.03-18.46.38:762][809]LogExit: Preparing to exit.
+[2020.04.03-18.46.39:336][809]LogExit: Editor shut down
+[2020.04.03-18.46.39:337][809]LogExit: Transaction tracking system shut down
+[2020.04.03-18.46.39:756][809]LogExit: Object subsystem successfully closed.
+[2020.04.03-18.46.39:774][809]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.03-18.46.39:779][809]LogD3D11RHI: Shutdown
+[2020.04.03-18.46.39:779][809]LogD3D11RHI: CleanupD3DDevice
+[2020.04.03-18.46.39:781][809]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.03-18.46.39:804][809]LogModuleManager: Shutting down and abandoning module BlueprintGraph (606)
+[2020.04.03-18.46.39:804][809]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (604)
+[2020.04.03-18.46.39:804][809]LogModuleManager: Shutting down and abandoning module Voice (602)
+[2020.04.03-18.46.39:804][809]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (600)
+[2020.04.03-18.46.39:804][809]LogModuleManager: Shutting down and abandoning module SceneOutliner (598)
+[2020.04.03-18.46.39:804][809]LogModuleManager: Shutting down and abandoning module AddContentDialog (596)
+[2020.04.03-18.46.39:805][809]LogModuleManager: Shutting down and abandoning module WidgetCarousel (595)
+[2020.04.03-18.46.39:805][809]LogModuleManager: Shutting down and abandoning module EditorWidgets (592)
+[2020.04.03-18.46.39:805][809]LogModuleManager: Shutting down and abandoning module CollectionManager (590)
+[2020.04.03-18.46.39:805][809]LogModuleManager: Shutting down and abandoning module StatsViewer (588)
+[2020.04.03-18.46.39:805][809]LogModuleManager: Shutting down and abandoning module FoliageEdit (586)
+[2020.04.03-18.46.39:805][809]LogModuleManager: Shutting down and abandoning module LandscapeEditor (584)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module MeshPaintMode (582)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (580)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module ActorPickerMode (578)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module GeometryMode (576)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module TextureAlignMode (574)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module BspMode (572)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (570)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (568)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module AutomationWorker (566)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (564)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (560)
+[2020.04.03-18.46.39:806][809]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (558)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module PlacementMode (557)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module MaterialEditor (556)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (552)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (550)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (548)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (546)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (544)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (542)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (540)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (538)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (536)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (534)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (532)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (530)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (528)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module CharacterAI (526)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module SmartSnapping (524)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module SessionServices (522)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module ViewportSnapping (520)
+[2020.04.03-18.46.39:807][809]LogModuleManager: Shutting down and abandoning module ViewportInteraction (518)
+[2020.04.03-18.46.39:808][809]LogModuleManager: Shutting down and abandoning module ClothPainter (516)
+[2020.04.03-18.46.39:808][809]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (515)
+[2020.04.03-18.46.39:809][809]LogModuleManager: Shutting down and abandoning module LogVisualizer (512)
+[2020.04.03-18.46.39:809][809]LogModuleManager: Shutting down and abandoning module IntroTutorials (510)
+[2020.04.03-18.46.39:809][809]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (509)
+[2020.04.03-18.46.39:809][809]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (506)
+[2020.04.03-18.46.39:809][809]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (504)
+[2020.04.03-18.46.39:809][809]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (502)
+[2020.04.03-18.46.39:809][809]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (500)
+[2020.04.03-18.46.39:809][809]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (499)
+[2020.04.03-18.46.40:603][809]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (496)
+[2020.04.03-18.46.40:603][809]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (494)
+[2020.04.03-18.46.40:603][809]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (492)
+[2020.04.03-18.46.40:603][809]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (490)
+[2020.04.03-18.46.40:603][809]LogModuleManager: Shutting down and abandoning module InputBindingEditor (488)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module MergeActors (486)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (484)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module LocalizationService (483)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module HardwareTargeting (480)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (478)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module UndoHistory (476)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module XmlParser (474)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module Blutility (472)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (470)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (469)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (466)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module SettingsEditor (464)
+[2020.04.03-18.46.40:604][809]LogModuleManager: Shutting down and abandoning module ProjectLauncher (462)
+[2020.04.03-18.46.40:605][809]LogModuleManager: Shutting down and abandoning module SessionFrontend (460)
+[2020.04.03-18.46.40:605][809]LogModuleManager: Shutting down and abandoning module ProfilerClient (458)
+[2020.04.03-18.46.40:605][809]LogModuleManager: Shutting down and abandoning module DeviceManager (456)
+[2020.04.03-18.46.40:605][809]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (455)
+[2020.04.03-18.46.40:671][809]LogModuleManager: Shutting down and abandoning module AutomationController (452)
+[2020.04.03-18.46.40:671][809]LogModuleManager: Shutting down and abandoning module AutomationWindow (450)
+[2020.04.03-18.46.40:671][809]LogModuleManager: Shutting down and abandoning module Layers (448)
+[2020.04.03-18.46.40:672][809]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (446)
+[2020.04.03-18.46.40:672][809]LogModuleManager: Shutting down and abandoning module DetailCustomizations (444)
+[2020.04.03-18.46.40:672][809]LogModuleManager: Shutting down and abandoning module PackagesDialog (442)
+[2020.04.03-18.46.40:672][809]LogModuleManager: Shutting down and abandoning module Persona (440)
+[2020.04.03-18.46.40:673][809]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (439)
+[2020.04.03-18.46.40:673][809]LogModuleManager: Shutting down and abandoning module AnimGraph (437)
+[2020.04.03-18.46.40:673][809]LogModuleManager: Shutting down and abandoning module Kismet (434)
+[2020.04.03-18.46.40:681][809]LogModuleManager: Shutting down and abandoning module GraphEditor (432)
+[2020.04.03-18.46.40:682][809]LogModuleManager: Shutting down and abandoning module ClassViewer (430)
+[2020.04.03-18.46.40:683][809]LogModuleManager: Shutting down and abandoning module Toolbox (428)
+[2020.04.03-18.46.40:683][809]LogModuleManager: Shutting down and abandoning module ModuleUI (426)
+[2020.04.03-18.46.40:683][809]LogModuleManager: Shutting down and abandoning module MovieSceneTools (424)
+[2020.04.03-18.46.40:683][809]LogModuleManager: Shutting down and abandoning module OutputLog (422)
+[2020.04.03-18.46.40:683][809]LogModuleManager: Shutting down and abandoning module GammaUI (420)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module Documentation (418)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (416)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module MovieScene (414)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (412)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module LauncherPlatform (410)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module AnalyticsET (408)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module PortalServices (406)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module PortalRpc (404)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module MessagingRpc (402)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module AIModule (400)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module GameplayDebugger (399)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module AITestSuite (397)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module NavigationSystem (395)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module DesktopPlatform (392)
+[2020.04.03-18.46.40:684][809]LogModuleManager: Shutting down and abandoning module ProfilerService (390)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module TaskGraph (388)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (386)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (384)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (382)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module EditableMesh (380)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (378)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module CableComponent (376)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module AudioCapture (374)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (372)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module AndroidPermission (370)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (368)
+[2020.04.03-18.46.40:791][809]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (366)
+[2020.04.03-18.46.40:792][809]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (364)
+[2020.04.03-18.46.40:792][809]LogModuleManager: Shutting down and abandoning module MediaCompositing (362)
+[2020.04.03-18.46.40:792][809]LogModuleManager: Shutting down and abandoning module LinearTimecode (360)
+[2020.04.03-18.46.40:792][809]LogModuleManager: Shutting down and abandoning module ImgMedia (358)
+[2020.04.03-18.46.40:794][809]LogModuleManager: Shutting down and abandoning module HTML5Networking (356)
+[2020.04.03-18.46.40:794][809]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (354)
+[2020.04.03-18.46.40:794][809]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (352)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module BackChannel (350)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module AppleVision (348)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module AppleImageUtils (346)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module AlembicImporter (344)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module AlembicLibrary (343)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module GeometryCache (342)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (341)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (336)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module DatasmithContent (334)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (332)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module PluginBrowser (330)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (328)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module PolygonModeling (326)
+[2020.04.03-18.46.40:795][809]LogModuleManager: Shutting down and abandoning module MeshEditor (324)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (322)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module CryptoKeys (320)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (318)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (316)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module UObjectPlugin (314)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (312)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (310)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module GitSourceControl (308)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module SourceControl (307)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (304)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module MeshPaint (295)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.04.03-18.46.40:796][809]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (284)
+[2020.04.03-18.46.40:797][809]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (282)
+[2020.04.03-18.46.40:797][809]LogModuleManager: Shutting down and abandoning module ActorSequence (280)
+[2020.04.03-18.46.40:797][809]LogModuleManager: Shutting down and abandoning module UdpMessaging (278)
+[2020.04.03-18.46.40:897][809]LogModuleManager: Shutting down and abandoning module TcpMessaging (276)
+[2020.04.03-18.46.40:999][809]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (274)
+[2020.04.03-18.46.40:999][809]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (272)
+[2020.04.03-18.46.40:999][809]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (270)
+[2020.04.03-18.46.40:999][809]LogModuleManager: Shutting down and abandoning module FacialAnimation (268)
+[2020.04.03-18.46.40:999][809]LogModuleManager: Shutting down and abandoning module DataValidation (266)
+[2020.04.03-18.46.40:999][809]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (264)
+[2020.04.03-18.46.40:999][809]LogModuleManager: Shutting down and abandoning module LevelEditor (263)
+[2020.04.03-18.46.41:000][809]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (262)
+[2020.04.03-18.46.41:000][809]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (260)
+[2020.04.03-18.46.41:000][809]LogModuleManager: Shutting down and abandoning module MainFrame (258)
+[2020.04.03-18.46.41:000][809]LogModuleManager: Shutting down and abandoning module HotReload (257)
+[2020.04.03-18.46.41:001][809]LogModuleManager: Shutting down and abandoning module ContentBrowser (253)
+[2020.04.03-18.46.41:001][809]LogModuleManager: Shutting down and abandoning module TreeMap (251)
+[2020.04.03-18.46.41:001][809]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (248)
+[2020.04.03-18.46.41:001][809]LogModuleManager: Shutting down and abandoning module AISupportModule (246)
+[2020.04.03-18.46.41:002][809]LogModuleManager: Shutting down and abandoning module Paper2D (244)
+[2020.04.03-18.46.41:002][809]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (242)
+[2020.04.03-18.46.41:002][809]LogModuleManager: Shutting down and abandoning module WmfMedia (240)
+[2020.04.03-18.46.41:003][809]LogModuleManager: Shutting down and abandoning module Media (239)
+[2020.04.03-18.46.41:009][809]LogModuleManager: Shutting down and abandoning module PacketHandler (236)
+[2020.04.03-18.46.41:009][809]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (234)
+[2020.04.03-18.46.41:009][809]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (232)
+[2020.04.03-18.46.41:009][809]LogModuleManager: Shutting down and abandoning module MediaAssets (230)
+[2020.04.03-18.46.41:009][809]LogModuleManager: Shutting down and abandoning module Overlay (228)
+[2020.04.03-18.46.41:009][809]LogModuleManager: Shutting down and abandoning module OverlayEditor (227)
+[2020.04.03-18.46.41:009][809]LogModuleManager: Shutting down and abandoning module VREditor (224)
+[2020.04.03-18.46.41:010][809]LogModuleManager: Shutting down and abandoning module StringTableEditor (222)
+[2020.04.03-18.46.41:010][809]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (220)
+[2020.04.03-18.46.41:010][809]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (218)
+[2020.04.03-18.46.41:010][809]LogModuleManager: Shutting down and abandoning module FunctionalTesting (216)
+[2020.04.03-18.46.41:010][809]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (214)
+[2020.04.03-18.46.41:010][809]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (213)
+[2020.04.03-18.46.41:010][809]LogModuleManager: Shutting down and abandoning module UMG (210)
+[2020.04.03-18.46.41:010][809]LogModuleManager: Shutting down and abandoning module UMGEditor (209)
+[2020.04.03-18.46.41:010][809]LogModuleManager: Shutting down and abandoning module Sequencer (208)
+[2020.04.03-18.46.41:011][809]LogModuleManager: Shutting down and abandoning module MessageLog (205)
+[2020.04.03-18.46.41:011][809]LogModuleManager: Shutting down and abandoning module SlateReflector (200)
+[2020.04.03-18.46.41:012][809]LogModuleManager: Shutting down and abandoning module Slate (198)
+[2020.04.03-18.46.41:012][809]LogModuleManager: Shutting down and abandoning module EditorStyle (196)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module MRMesh (194)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (192)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (190)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module XAudio2 (188)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module Networking (186)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module Core (184)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module LevelSequence (182)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module KismetCompiler (180)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module MeshUtilities (178)
+[2020.04.03-18.46.41:013][809]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (177)
+[2020.04.03-18.46.41:014][809]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (176)
+[2020.04.03-18.46.41:014][809]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (175)
+[2020.04.03-18.46.41:014][809]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (173)
+[2020.04.03-18.46.41:014][809]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (171)
+[2020.04.03-18.46.41:014][809]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (169)
+[2020.04.03-18.46.41:014][809]LogModuleManager: Shutting down and abandoning module MaterialBaking (165)
+[2020.04.03-18.46.41:015][809]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (161)
+[2020.04.03-18.46.41:015][809]LogModuleManager: Shutting down and abandoning module DerivedDataCache (158)
+[2020.04.03-18.46.41:053][809]LogDerivedDataCache: Shutdown
+[2020.04.03-18.46.41:053][809]LogModuleManager: Shutting down and abandoning module XGEController (156)
+[2020.04.03-18.46.41:053][809]LogModuleManager: Shutting down and abandoning module TargetPlatform (154)
+[2020.04.03-18.46.41:053][809]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (153)
+[2020.04.03-18.46.41:053][809]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (151)
+[2020.04.03-18.46.41:053][809]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (149)
+[2020.04.03-18.46.41:053][809]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (147)
+[2020.04.03-18.46.41:053][809]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (145)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (143)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (141)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (139)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (137)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (135)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module ImageWrapper (134)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (131)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (129)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (127)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (125)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (123)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2020.04.03-18.46.41:054][809]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2020.04.03-18.46.41:055][809]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2020.04.03-18.46.41:055][809]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2020.04.03-18.46.41:056][809]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2020.04.03-18.46.41:056][809]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (103)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (101)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (99)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (97)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (95)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (93)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (91)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (89)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (87)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module InputCore (84)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module Settings (82)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module PhysXCooking (80)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2020.04.03-18.46.41:065][809]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2020.04.03-18.46.41:066][809]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2020.04.03-18.46.41:066][809]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2020.04.03-18.46.41:077][809]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2020.04.03-18.46.41:077][809]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.03-18.46.41:077][809]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4948D214-44A9-4EB8-CC40-8FB527F07DCE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=5ba65200495fd8746d9fd7bad5d2a3e5%7Ce28ee66ad6054fbf8be5b7c2ddedd7a5%7Ce56959af-56f2-4383-8b75-356428f6e842&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.03-18.46.41:101][809]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2020.04.03-18.46.41:102][809]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.03-18.46.41:102][809]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2020.04.03-18.46.41:103][809]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.04.03-18.46.41:103][809]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.04.03-18.46.41:103][809]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.04.03-18.46.41:103][809]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.04.03-18.46.41:103][809]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.04.03-18.46.41:103][809]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.04.03-18.46.41:103][809]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.04.03-18.46.41:105][809]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.04.03-18.46.41:112][809]LogExit: Exiting.
+[2020.04.03-18.46.41:115][809]Log file closed, 04/03/20 11:46:41
